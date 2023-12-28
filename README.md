@@ -1,6 +1,6 @@
 # Python Facial Detection
 This is a facial detection and identification program written in python using the OpenCV library.
-In order to use, add images to the "faces" folder of the individuals who you wish to identify. A camera must also be connected to the device as this is where the video stream comes from.
+In order to use, add images to the "faces" folder of the individuals who you wish to identify. A camera must also be connected to the device as this is where the video stream comes from. Currently, there is a stock photo of a person inside of the "faces" folder that can be used to test the program.
 To quit the program simply press the 'q' key.
 
 # Identification
